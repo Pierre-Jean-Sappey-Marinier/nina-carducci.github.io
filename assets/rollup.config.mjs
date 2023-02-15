@@ -1,3 +1,5 @@
+
+
 export default {
   input: "bootstrap/bootstrap.bundle.min.js",
   output: {
